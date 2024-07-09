@@ -32,6 +32,6 @@
 
 ###
 
-![snake gif](https://github.com/abhigaikwad25/abhigaikwad25/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/abhigaikwad25/abhigaikwad25/blob/main/dist/snake.svg)
 
 ###
